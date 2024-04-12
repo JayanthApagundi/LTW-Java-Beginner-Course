@@ -49,5 +49,9 @@ public class Strings {
 
         //Splits- ComeBack
 
+        // " This is a important thing- "IMPORTANT" "
+        System.out.println("This is a important thing- \"IMPORTANT\" ");
+        // " It's alright "
+        System.out.println("It's alright");
     }
 }
