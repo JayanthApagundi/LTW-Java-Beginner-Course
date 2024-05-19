@@ -12,7 +12,7 @@ public class Strings {
         System.out.println(thought.toLowerCase());
 
         //To find index or position of char or word
-        System.out.println(thought.indexOf("s"));
+        System.out.println(thought.indexOf("e"));
         System.out.println(thought.indexOf("Z")); //-1
         System.out.println(thought.indexOf("policy"));
 
@@ -39,7 +39,7 @@ public class Strings {
         System.out.println(h); //1020
 
         // charAt(number) -> Gives the character present at that index/position
-        System.out.println(thought.charAt(0));
+        System.out.println(thought.charAt(1));
         System.out.println(thought.charAt(24));
         //System.out.println(thought.charAt(75));
 
